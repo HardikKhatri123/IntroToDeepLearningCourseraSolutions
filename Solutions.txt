@@ -1,0 +1,15 @@
+Hey Hello, I understand you want the solutions for Intro to Deep Learning Coursera solutions. Here they are.
+
+ -> Check this folder (Go to core -> Machine Learning -> Introduction to Deep Learning) 
+
+Link: https://github1s.com/RyanJTalbot/MSDS/tree/main 
+
+-> Check other files in the folder, too. You can use this chrome extension to gain peer evaluation from your peers. 
+
+Link: https://chromewebstore.google.com/detail/coursera-get-shareable-li/jgngfpojnhfbbcadbodnpeoipflccgmm?hl=en 
+
+->In general, people don't care and offer positive scores to peers via anonymous evaluations, but some people may flag it for plagiarism, so be cautious. You can also use LLMs like ChatGPT to generate/paraphrase replies. 
+
+-> For projects you can upload anything and use the chrome extensions to get review through your friends in order to pass the course
+
+Enjoy
