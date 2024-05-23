@@ -1,5 +1,5 @@
 # IntroToDeepLearningCourseraSolutions
-This repository contains the solutions of Coursera course Intro to Deep Learning Solutions
+This repository contains the solutions of Coursera course Intro to Deep Learning by University of Colorado Boulder
 Check solutions.txt 
 
 Here's the Github repo that contains the solution for this Course
